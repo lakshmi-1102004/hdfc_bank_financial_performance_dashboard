@@ -25,3 +25,5 @@ The objective of this dashboard is to visualize key financial metrics and trends
 6. Designed an interactive dashboard with KPI cards, line charts, bar charts, and trend analysis.
 
 ##Dashboard
+<img width="907" height="507" alt="Screenshot 2026-05-05 071123" src="https://github.com/user-attachments/assets/8c687be8-3f3c-4a52-a470-c9aa8f0fe0e3" />
+
