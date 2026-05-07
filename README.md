@@ -1,2 +1,4 @@
-# hdfc_bank_financial_performance_dashboard
-I developed a comprehensive financial performance dashboard for HDFC Bank⁠.using Power BI and Excel. The project involved collecting and analyzing financial statement data to evaluate the bank’s performance over multiple years. The dashboard includes interactive visualizations for key financial indicators such as Net Profit, Total income, Advances.
+# HDFC Bank Financial Performance Dashboard (interactive dashboard creation using PowerBi)
+
+## Project Objective
+The objective of this dashboard is to visualize key financial metrics and trends for HDFC Bank. By cleaning and processing data from external financial sources, I developed insights into profitability, asset growth, and efficiency.
