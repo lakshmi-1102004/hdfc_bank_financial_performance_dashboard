@@ -3,7 +3,7 @@
 ## Project Objective
 The objective of this dashboard is to visualize key financial metrics and trends for HDFC Bank. By cleaning and processing data from external financial sources, I developed insights into profitability, asset growth, and efficiency.
 
-##Dataset used
+## Dataset used
 -<a href= "https://github.com/lakshmi-1102004/hdfc_bank_financial_performance_dashboard/blob/main/HDFC%20Bank%20Financial%20Performance%20Dashboard.pbix">Dataset</a>
 
 ## Questions Answered by the Dashboard
@@ -16,6 +16,10 @@ The objective of this dashboard is to visualize key financial metrics and trends
 
 -Dashboard Interaction <a href="https://github.com/lakshmi-1102004/hdfc_bank_financial_performance_dashboard/blob/main/HDFC%20Bank%20Financial%20Performance%20Dashboard.pbix">view Dashboard</a>
 
+## Tools Used
+- Power BI: For data modeling, DAX calculations, and visualization.
+- Excel: For data extraction and cleaning.
+
 ## Process
 1. Collected financial data from MoneyControl.
 2. Selected key fields such as Years, Total Assets, Net Profit, Other Income, Shareholders' Equity, Gross NPA, Operating Expenses, Net Interest Income, and Provisions.
@@ -24,6 +28,14 @@ The objective of this dashboard is to visualize key financial metrics and trends
 5. Created DAX measures for trends and ratios.
 6. Designed an interactive dashboard with KPI cards, line charts, bar charts, and trend analysis.
 
-##Dashboard
+## Dashboard
 <img width="907" height="507" alt="Screenshot 2026-05-05 071123" src="https://github.com/user-attachments/assets/8c687be8-3f3c-4a52-a470-c9aa8f0fe0e3" />
 
+## Project Insights
+- Net profit and total assets show growth over time.
+- Net Interest Income indicates core business strength.
+- Gross NPA ratio helps track asset quality.
+- ROE reflects profitability efficiency.
+
+## Conclusion
+This dashboard provides a concise and interactive view of HDFC Bank’s financial performance, helping users understand profitability, growth, and risk trends.
