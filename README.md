@@ -25,3 +25,4 @@ The objective of this dashboard is to visualize key financial metrics and trends
 6. Designed an interactive dashboard with KPI cards, line charts, bar charts, and trend analysis.
 
 ##Dashboard
+<a href="https://github.com/lakshmi-1102004/hdfc_bank_financial_performance_dashboard/blob/main/Screenshot%202026-05-05%20071123.png">
