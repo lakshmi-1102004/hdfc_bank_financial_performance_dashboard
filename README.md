@@ -15,3 +15,13 @@ The objective of this dashboard is to visualize key financial metrics and trends
 - How do ROE and profitability compare across years?
 
 -Dashboard Interaction <a href="https://github.com/lakshmi-1102004/hdfc_bank_financial_performance_dashboard/blob/main/HDFC%20Bank%20Financial%20Performance%20Dashboard.pbix">view Dashboard</a>
+
+## Process
+1. Collected financial data from MoneyControl.
+2. Selected key fields such as Years, Total Assets, Net Profit, Other Income, Shareholders' Equity, Gross NPA, Operating Expenses, Net Interest Income, and Provisions.
+3. Cleaned and organized the data in Excel.
+4. Imported the data into Power BI.
+5. Created DAX measures for trends and ratios.
+6. Designed an interactive dashboard with KPI cards, line charts, bar charts, and trend analysis.
+
+##Dashboard
